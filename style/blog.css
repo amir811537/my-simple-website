@@ -7,3 +7,10 @@ h1{
     text-align: center;
 }
 h3{background-color: yellow;}
+div{
+    padding: 100Spx;
+
+}
+img{
+    position: relative;
+}
